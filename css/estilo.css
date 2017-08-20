@@ -1,10 +1,11 @@
 body{
+	background: url("https://image.freepik.com/free-vector/weather-pattern_1061-487.jpg");
 	background-color:#004F2D; 
 }
  	
 
 .text-mayor{
-	color:#508CA4 !important;
+	color:#00aF2D !important;
 	text-shadow: 1px 1px black;
 }
 .text-minor{
@@ -13,5 +14,8 @@ body{
 }
 .datos{
 	background-color: #0A8754;
-
+	border:1px solid black;
+}
+#temperatura{
+	cursor: pointer;
 }
