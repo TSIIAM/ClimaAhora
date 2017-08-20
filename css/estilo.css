@@ -1,0 +1,17 @@
+body{
+	background-color:#004F2D; 
+}
+ 	
+
+.text-mayor{
+	color:#508CA4 !important;
+	text-shadow: 1px 1px black;
+}
+.text-minor{
+	color:#BFD7EA !important;
+	text-shadow: 1px 1px black;
+}
+.datos{
+	background-color: #0A8754;
+
+}
